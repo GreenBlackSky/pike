@@ -1,0 +1,3163 @@
+{
+  "ingredients": {
+    "apple": {
+      "carbsPer100": 2520,
+      "description": "Fresh apples",
+      "fatPer100": 36,
+      "freshBuy": true,
+      "id": "apple",
+      "kcalPer100": 9400,
+      "name": "Apples",
+      "proteinPer100": 54,
+      "unit": "piece"
+    },
+    "avocado": {
+      "carbsPer100": 1800,
+      "description": "Whole avocado",
+      "fatPer100": 3000,
+      "freshBuy": true,
+      "id": "avocado",
+      "kcalPer100": 32000,
+      "name": "Avocado",
+      "proteinPer100": 400,
+      "unit": "piece"
+    },
+    "baking_powder": {
+      "carbsPer100": 0,
+      "description": "Baking powder (distinct leavening from baking soda)",
+      "fatPer100": 0,
+      "freshBuy": false,
+      "kcalPer100": 0,
+      "name": "Baking powder",
+      "proteinPer100": 0,
+      "unit": "g"
+    },
+    "baking_soda": {
+      "carbsPer100": 0,
+      "description": "Baking soda",
+      "fatPer100": 0,
+      "freshBuy": false,
+      "id": "baking_soda",
+      "kcalPer100": 0,
+      "name": "Baking soda",
+      "proteinPer100": 0,
+      "unit": "g"
+    },
+    "banana": {
+      "carbsPer100": 2760,
+      "description": "Fresh bananas",
+      "fatPer100": 36,
+      "freshBuy": true,
+      "id": "banana",
+      "kcalPer100": 10700,
+      "name": "Bananas",
+      "proteinPer100": 132,
+      "unit": "piece"
+    },
+    "basil": {
+      "carbsPer100": 2.7,
+      "description": "Fresh basil leaves",
+      "fatPer100": 0.6,
+      "freshBuy": true,
+      "id": "basil",
+      "kcalPer100": 23,
+      "name": "Fresh basil",
+      "proteinPer100": 3.2,
+      "unit": "g"
+    },
+    "bay_leaf": {
+      "carbsPer100": 20,
+      "description": "Dried bay leaves",
+      "fatPer100": 1,
+      "freshBuy": false,
+      "id": "bay_leaf",
+      "kcalPer100": 100,
+      "name": "Bay leaves",
+      "proteinPer100": 8,
+      "unit": "piece"
+    },
+    "beans_black_canned": {
+      "carbsPer100": 16,
+      "description": "Drained",
+      "fatPer100": 0.5,
+      "freshBuy": false,
+      "id": "beans_black_canned",
+      "kcalPer100": 92,
+      "name": "Canned black beans",
+      "proteinPer100": 6,
+      "unit": "g"
+    },
+    "beans_kidney_canned": {
+      "carbsPer100": 17,
+      "description": "Crveni pasulj, drained",
+      "fatPer100": 0.5,
+      "freshBuy": false,
+      "id": "beans_kidney_canned",
+      "kcalPer100": 95,
+      "name": "Canned kidney beans",
+      "proteinPer100": 7,
+      "unit": "g"
+    },
+    "beans_pinto_canned": {
+      "carbsPer100": 17,
+      "description": "Drained",
+      "fatPer100": 0.5,
+      "freshBuy": false,
+      "id": "beans_pinto_canned",
+      "kcalPer100": 94,
+      "name": "Canned pinto beans",
+      "proteinPer100": 6,
+      "unit": "g"
+    },
+    "beans_refried_canned": {
+      "carbsPer100": 15,
+      "description": "Seasoned, mashed",
+      "fatPer100": 2,
+      "freshBuy": false,
+      "id": "beans_refried_canned",
+      "kcalPer100": 100,
+      "name": "Canned refried beans",
+      "proteinPer100": 6,
+      "unit": "g"
+    },
+    "beans_white_canned": {
+      "carbsPer100": 16,
+      "description": "Beli pasulj, drained",
+      "fatPer100": 0.5,
+      "freshBuy": false,
+      "id": "beans_white_canned",
+      "kcalPer100": 90,
+      "name": "Canned white beans",
+      "proteinPer100": 6,
+      "unit": "g"
+    },
+    "bell_pepper": {
+      "carbsPer100": 720,
+      "description": "Fresh bell peppers, any colour",
+      "fatPer100": 36,
+      "freshBuy": true,
+      "id": "bell_pepper",
+      "kcalPer100": 3720,
+      "name": "Bell peppers",
+      "proteinPer100": 120,
+      "unit": "piece"
+    },
+    "berries": {
+      "carbsPer100": 12,
+      "description": "Mixed fresh/frozen berries",
+      "fatPer100": 0.3,
+      "freshBuy": true,
+      "id": "berries",
+      "kcalPer100": 50,
+      "name": "Berries",
+      "proteinPer100": 0.8,
+      "unit": "g"
+    },
+    "biscuits_plain": {
+      "carbsPer100": 68,
+      "description": "Petit beurre / digestive biscuits",
+      "fatPer100": 20,
+      "freshBuy": false,
+      "id": "biscuits_plain",
+      "kcalPer100": 480,
+      "name": "Plain biscuits",
+      "proteinPer100": 7,
+      "unit": "g"
+    },
+    "bread": {
+      "carbsPer100": 49,
+      "description": "Sliced bread",
+      "fatPer100": 3.5,
+      "freshBuy": true,
+      "id": "bread",
+      "kcalPer100": 265,
+      "name": "Bread",
+      "proteinPer100": 9,
+      "unit": "g"
+    },
+    "bread_seeded": {
+      "carbsPer100": 45,
+      "description": "Seeded or multigrain sliced bread",
+      "fatPer100": 5,
+      "freshBuy": false,
+      "kcalPer100": 275,
+      "name": "Seeded/multigrain bread",
+      "proteinPer100": 10,
+      "unit": "g"
+    },
+    "breadcrumbs": {
+      "carbsPer100": 72,
+      "description": "Dry breadcrumbs (or blended oats)",
+      "fatPer100": 5,
+      "freshBuy": false,
+      "id": "breadcrumbs",
+      "kcalPer100": 395,
+      "name": "Breadcrumbs",
+      "proteinPer100": 13,
+      "unit": "g"
+    },
+    "broccoli": {
+      "carbsPer100": 7,
+      "description": "Fresh or frozen broccoli",
+      "fatPer100": 0.4,
+      "freshBuy": true,
+      "id": "broccoli",
+      "kcalPer100": 34,
+      "name": "Broccoli",
+      "proteinPer100": 2.8,
+      "unit": "g"
+    },
+    "bulgur": {
+      "carbsPer100": 76,
+      "description": "Dry bulgur wheat",
+      "fatPer100": 1.3,
+      "freshBuy": false,
+      "id": "bulgur",
+      "kcalPer100": 342,
+      "name": "Bulgur (or buckwheat)",
+      "proteinPer100": 12,
+      "unit": "g"
+    },
+    "burger_bun": {
+      "carbsPer100": 4700,
+      "description": "Soft burger buns",
+      "fatPer100": 500,
+      "freshBuy": false,
+      "id": "burger_bun",
+      "kcalPer100": 27000,
+      "name": "Burger buns",
+      "proteinPer100": 900,
+      "unit": "piece"
+    },
+    "butter": {
+      "carbsPer100": 0.1,
+      "description": "Butter",
+      "fatPer100": 81,
+      "freshBuy": false,
+      "id": "butter",
+      "kcalPer100": 717,
+      "name": "Butter",
+      "proteinPer100": 0.9,
+      "unit": "g"
+    },
+    "cabbage": {
+      "carbsPer100": 6,
+      "description": "Fresh cabbage",
+      "fatPer100": 0.1,
+      "freshBuy": true,
+      "id": "cabbage",
+      "kcalPer100": 25,
+      "name": "Cabbage",
+      "proteinPer100": 1.3,
+      "unit": "g"
+    },
+    "carrot": {
+      "carbsPer100": 10,
+      "description": "Fresh carrots",
+      "fatPer100": 0.2,
+      "freshBuy": true,
+      "id": "carrot",
+      "kcalPer100": 41,
+      "name": "Carrots",
+      "proteinPer100": 0.9,
+      "unit": "g"
+    },
+    "celery": {
+      "carbsPer100": 3,
+      "description": "Fresh celery stalks",
+      "fatPer100": 0.2,
+      "freshBuy": true,
+      "id": "celery",
+      "kcalPer100": 16,
+      "name": "Celery",
+      "proteinPer100": 0.7,
+      "unit": "g"
+    },
+    "cheese_hard_grated": {
+      "carbsPer100": 1.5,
+      "description": "Kačkavalj or parmesan-style, grated or sliced",
+      "fatPer100": 29,
+      "freshBuy": true,
+      "id": "cheese_hard_grated",
+      "kcalPer100": 370,
+      "name": "Grated hard cheese",
+      "proteinPer100": 26,
+      "unit": "g"
+    },
+    "cheese_mozzarella": {
+      "carbsPer100": 2,
+      "description": "Mozzarella-style cheese",
+      "fatPer100": 22,
+      "freshBuy": true,
+      "id": "cheese_mozzarella",
+      "kcalPer100": 280,
+      "name": "Mozzarella-style cheese",
+      "proteinPer100": 20,
+      "unit": "g"
+    },
+    "cheese_white_crumbled": {
+      "carbsPer100": 4,
+      "description": "Feta-style / sir",
+      "fatPer100": 21,
+      "freshBuy": true,
+      "id": "cheese_white_crumbled",
+      "kcalPer100": 265,
+      "name": "Crumbled white cheese",
+      "proteinPer100": 14,
+      "unit": "g"
+    },
+    "cherry_tomato": {
+      "carbsPer100": 65,
+      "description": "Small cherry tomatoes",
+      "fatPer100": 3,
+      "freshBuy": true,
+      "id": "cherry_tomato",
+      "kcalPer100": 300,
+      "name": "Cherry tomatoes",
+      "proteinPer100": 15,
+      "unit": "piece"
+    },
+    "chickpeas_canned": {
+      "carbsPer100": 16,
+      "description": "Slanutak/leblebija, drained",
+      "fatPer100": 2,
+      "freshBuy": false,
+      "id": "chickpeas_canned",
+      "kcalPer100": 110,
+      "name": "Canned chickpeas",
+      "proteinPer100": 6,
+      "unit": "g"
+    },
+    "chickpeas_dry": {
+      "carbsPer100": 63,
+      "description": "Dry chickpeas, soaked & cooked",
+      "fatPer100": 6,
+      "freshBuy": false,
+      "kcalPer100": 378,
+      "name": "Dry chickpeas",
+      "proteinPer100": 20,
+      "unit": "g"
+    },
+    "chili_flakes": {
+      "carbsPer100": 50,
+      "description": "Dried chili flakes",
+      "fatPer100": 15,
+      "freshBuy": false,
+      "id": "chili_flakes",
+      "kcalPer100": 282,
+      "name": "Chili flakes",
+      "proteinPer100": 12,
+      "unit": "g"
+    },
+    "chili_powder": {
+      "carbsPer100": 50,
+      "description": "Chili/paprika powder blend",
+      "fatPer100": 14,
+      "freshBuy": false,
+      "id": "chili_powder",
+      "kcalPer100": 282,
+      "name": "Chili powder",
+      "proteinPer100": 13,
+      "unit": "g"
+    },
+    "cinnamon": {
+      "carbsPer100": 81,
+      "description": "Ground cinnamon",
+      "fatPer100": 1.2,
+      "freshBuy": false,
+      "id": "cinnamon",
+      "kcalPer100": 247,
+      "name": "Cinnamon",
+      "proteinPer100": 4,
+      "unit": "g"
+    },
+    "cocoa_powder": {
+      "carbsPer100": 58,
+      "description": "Unsweetened cocoa powder",
+      "fatPer100": 14,
+      "freshBuy": false,
+      "kcalPer100": 228,
+      "name": "Cocoa powder",
+      "proteinPer100": 20,
+      "unit": "g"
+    },
+    "condensed_milk": {
+      "carbsPer100": 55,
+      "description": "Canned condensed milk",
+      "fatPer100": 8.7,
+      "freshBuy": false,
+      "id": "condensed_milk",
+      "kcalPer100": 321,
+      "name": "Sweetened condensed milk",
+      "proteinPer100": 7.9,
+      "unit": "g"
+    },
+    "corn_canned": {
+      "carbsPer100": 21,
+      "description": "Kukuruz šećerac, drained",
+      "fatPer100": 1.2,
+      "freshBuy": false,
+      "id": "corn_canned",
+      "kcalPer100": 96,
+      "name": "Canned sweet corn",
+      "proteinPer100": 3.2,
+      "unit": "g"
+    },
+    "cornstarch": {
+      "carbsPer100": 91,
+      "description": "Cornstarch",
+      "fatPer100": 0.1,
+      "freshBuy": false,
+      "id": "cornstarch",
+      "kcalPer100": 381,
+      "name": "Cornstarch",
+      "proteinPer100": 0.3,
+      "unit": "g"
+    },
+    "cottage_cheese": {
+      "carbsPer100": 3.4,
+      "description": "Cottage cheese",
+      "fatPer100": 4.3,
+      "freshBuy": true,
+      "id": "cottage_cheese",
+      "kcalPer100": 98,
+      "name": "Cottage cheese",
+      "proteinPer100": 11,
+      "unit": "g"
+    },
+    "couscous": {
+      "carbsPer100": 77,
+      "description": "Dry couscous",
+      "fatPer100": 0.6,
+      "freshBuy": false,
+      "id": "couscous",
+      "kcalPer100": 375,
+      "name": "Couscous",
+      "proteinPer100": 13,
+      "unit": "g"
+    },
+    "cucumber": {
+      "carbsPer100": 1080,
+      "description": "Fresh cucumber, whole",
+      "fatPer100": 30,
+      "freshBuy": true,
+      "id": "cucumber",
+      "kcalPer100": 4500,
+      "name": "Cucumber",
+      "proteinPer100": 210,
+      "unit": "piece"
+    },
+    "cumin": {
+      "carbsPer100": 44,
+      "description": "Ground cumin",
+      "fatPer100": 22,
+      "freshBuy": false,
+      "id": "cumin",
+      "kcalPer100": 375,
+      "name": "Cumin",
+      "proteinPer100": 18,
+      "unit": "g"
+    },
+    "dumpling_wrapper": {
+      "carbsPer100": 210,
+      "description": "Wheat dumpling wrappers, Asian aisle",
+      "fatPer100": 4,
+      "freshBuy": false,
+      "id": "dumpling_wrapper",
+      "kcalPer100": 1000,
+      "name": "Dumpling/gyoza wrappers",
+      "proteinPer100": 30,
+      "unit": "piece"
+    },
+    "egg": {
+      "carbsPer100": 60,
+      "description": "Whole eggs",
+      "fatPer100": 530,
+      "freshBuy": false,
+      "id": "egg",
+      "kcalPer100": 7800,
+      "name": "Eggs",
+      "proteinPer100": 630,
+      "unit": "piece"
+    },
+    "eggplant": {
+      "carbsPer100": 6,
+      "description": "Fresh eggplant/plavi patlidžan",
+      "fatPer100": 0.2,
+      "freshBuy": true,
+      "id": "eggplant",
+      "kcalPer100": 25,
+      "name": "Eggplant",
+      "proteinPer100": 1,
+      "unit": "g"
+    },
+    "flour": {
+      "carbsPer100": 76,
+      "description": "Plain wheat flour",
+      "fatPer100": 1,
+      "freshBuy": false,
+      "id": "flour",
+      "kcalPer100": 364,
+      "name": "Flour",
+      "proteinPer100": 10,
+      "unit": "g"
+    },
+    "garlic": {
+      "carbsPer100": 100,
+      "description": "Cloves",
+      "fatPer100": 1.5,
+      "freshBuy": false,
+      "id": "garlic",
+      "kcalPer100": 450,
+      "name": "Garlic",
+      "proteinPer100": 19,
+      "unit": "piece"
+    },
+    "ginger": {
+      "carbsPer100": 18,
+      "description": "Fresh ginger root",
+      "fatPer100": 0.8,
+      "freshBuy": true,
+      "id": "ginger",
+      "kcalPer100": 80,
+      "name": "Fresh ginger",
+      "proteinPer100": 1.8,
+      "unit": "g"
+    },
+    "gnocchi": {
+      "carbsPer100": 34,
+      "description": "Store-bought potato gnocchi",
+      "fatPer100": 1,
+      "freshBuy": false,
+      "id": "gnocchi",
+      "kcalPer100": 160,
+      "name": "Potato gnocchi",
+      "proteinPer100": 3,
+      "unit": "g"
+    },
+    "granola": {
+      "carbsPer100": 64,
+      "description": "Granola cereal",
+      "fatPer100": 20,
+      "freshBuy": false,
+      "id": "granola",
+      "kcalPer100": 470,
+      "name": "Granola",
+      "proteinPer100": 10,
+      "unit": "g"
+    },
+    "honey": {
+      "carbsPer100": 82,
+      "description": "Honey",
+      "fatPer100": 0,
+      "freshBuy": false,
+      "id": "honey",
+      "kcalPer100": 304,
+      "name": "Honey",
+      "proteinPer100": 0.3,
+      "unit": "g"
+    },
+    "hummus": {
+      "carbsPer100": 14,
+      "description": "Store-bought or homemade hummus",
+      "fatPer100": 9.6,
+      "freshBuy": true,
+      "id": "hummus",
+      "kcalPer100": 166,
+      "name": "Hummus",
+      "proteinPer100": 7.9,
+      "unit": "g"
+    },
+    "leek": {
+      "carbsPer100": 14,
+      "description": "Fresh leeks/praziluk",
+      "fatPer100": 0.3,
+      "freshBuy": true,
+      "id": "leek",
+      "kcalPer100": 61,
+      "name": "Leeks",
+      "proteinPer100": 1.5,
+      "unit": "g"
+    },
+    "lemon": {
+      "carbsPer100": 522,
+      "description": "Fresh lemons (juice + zest)",
+      "fatPer100": 18,
+      "freshBuy": true,
+      "id": "lemon",
+      "kcalPer100": 1700,
+      "name": "Lemons",
+      "proteinPer100": 64,
+      "unit": "piece"
+    },
+    "lentils_brown_green": {
+      "carbsPer100": 63,
+      "description": "Dry brown or green lentils",
+      "fatPer100": 1,
+      "freshBuy": false,
+      "id": "lentils_brown_green",
+      "kcalPer100": 353,
+      "name": "Brown/green lentils",
+      "proteinPer100": 25,
+      "unit": "g"
+    },
+    "lentils_red": {
+      "carbsPer100": 60,
+      "description": "Dry red lentils",
+      "fatPer100": 1.5,
+      "freshBuy": false,
+      "id": "lentils_red",
+      "kcalPer100": 352,
+      "name": "Red lentils",
+      "proteinPer100": 24,
+      "unit": "g"
+    },
+    "lettuce": {
+      "carbsPer100": 2.9,
+      "description": "Fresh lettuce",
+      "fatPer100": 0.2,
+      "freshBuy": true,
+      "id": "lettuce",
+      "kcalPer100": 15,
+      "name": "Lettuce",
+      "proteinPer100": 1.4,
+      "unit": "g"
+    },
+    "lime": {
+      "carbsPer100": 335,
+      "description": "Fresh limes (juice)",
+      "fatPer100": 13,
+      "freshBuy": true,
+      "id": "lime",
+      "kcalPer100": 1340,
+      "name": "Limes",
+      "proteinPer100": 47,
+      "unit": "piece"
+    },
+    "milk": {
+      "carbsPer100": 5,
+      "description": "Semi-skimmed milk",
+      "fatPer100": 1,
+      "freshBuy": false,
+      "id": "milk",
+      "kcalPer100": 42,
+      "name": "Milk",
+      "proteinPer100": 3.4,
+      "unit": "ml"
+    },
+    "miso_paste": {
+      "carbsPer100": 26,
+      "description": "Miso paste",
+      "fatPer100": 6,
+      "freshBuy": false,
+      "id": "miso_paste",
+      "kcalPer100": 200,
+      "name": "Miso paste",
+      "proteinPer100": 12,
+      "unit": "g"
+    },
+    "mushroom": {
+      "carbsPer100": 3.3,
+      "description": "Šampinjoni, fresh",
+      "fatPer100": 0.3,
+      "freshBuy": true,
+      "id": "mushroom",
+      "kcalPer100": 22,
+      "name": "Mushrooms",
+      "proteinPer100": 3.1,
+      "unit": "g"
+    },
+    "nori_sheet": {
+      "carbsPer100": 160,
+      "description": "Dried seaweed sheets for sushi",
+      "fatPer100": 60,
+      "freshBuy": false,
+      "id": "nori_sheet",
+      "kcalPer100": 1000,
+      "name": "Nori sheets",
+      "proteinPer100": 120,
+      "unit": "piece"
+    },
+    "nutmeg": {
+      "carbsPer100": 49,
+      "description": "Ground nutmeg",
+      "fatPer100": 36,
+      "freshBuy": false,
+      "id": "nutmeg",
+      "kcalPer100": 525,
+      "name": "Nutmeg",
+      "proteinPer100": 6,
+      "unit": "g"
+    },
+    "oil": {
+      "carbsPer100": 0,
+      "description": "Sunflower or olive oil",
+      "fatPer100": 100,
+      "freshBuy": false,
+      "id": "oil",
+      "kcalPer100": 884,
+      "name": "Cooking oil",
+      "proteinPer100": 0,
+      "unit": "ml"
+    },
+    "onion": {
+      "carbsPer100": 9,
+      "description": "Fresh onions (incl. red onion)",
+      "fatPer100": 0.1,
+      "freshBuy": false,
+      "id": "onion",
+      "kcalPer100": 40,
+      "name": "Onions",
+      "proteinPer100": 1.1,
+      "unit": "g"
+    },
+    "oregano": {
+      "carbsPer100": 69,
+      "description": "Dried oregano",
+      "fatPer100": 4,
+      "freshBuy": false,
+      "id": "oregano",
+      "kcalPer100": 265,
+      "name": "Oregano",
+      "proteinPer100": 9,
+      "unit": "g"
+    },
+    "paprika_powder": {
+      "carbsPer100": 54,
+      "description": "Sweet paprika powder",
+      "fatPer100": 13,
+      "freshBuy": false,
+      "id": "paprika_powder",
+      "kcalPer100": 282,
+      "name": "Paprika powder",
+      "proteinPer100": 14,
+      "unit": "g"
+    },
+    "parsley": {
+      "carbsPer100": 6,
+      "description": "Fresh parsley",
+      "fatPer100": 0.8,
+      "freshBuy": true,
+      "id": "parsley",
+      "kcalPer100": 36,
+      "name": "Parsley",
+      "proteinPer100": 3,
+      "unit": "g"
+    },
+    "pasta": {
+      "carbsPer100": 75,
+      "description": "Dry wheat pasta, any shape incl. soup pasta",
+      "fatPer100": 1.5,
+      "freshBuy": false,
+      "id": "pasta",
+      "kcalPer100": 370,
+      "name": "Pasta",
+      "proteinPer100": 13,
+      "unit": "g"
+    },
+    "peas_frozen": {
+      "carbsPer100": 14,
+      "description": "Frozen green peas",
+      "fatPer100": 0.4,
+      "freshBuy": false,
+      "kcalPer100": 81,
+      "name": "Frozen peas",
+      "proteinPer100": 5.4,
+      "unit": "g"
+    },
+    "pepper": {
+      "carbsPer100": 64,
+      "description": "Ground black pepper",
+      "fatPer100": 3,
+      "freshBuy": false,
+      "id": "pepper",
+      "kcalPer100": 251,
+      "name": "Black pepper",
+      "proteinPer100": 10,
+      "unit": "g"
+    },
+    "potato": {
+      "carbsPer100": 17,
+      "description": "Fresh potatoes",
+      "fatPer100": 0.1,
+      "freshBuy": true,
+      "id": "potato",
+      "kcalPer100": 77,
+      "name": "Potatoes",
+      "proteinPer100": 2,
+      "unit": "g"
+    },
+    "ramen_noodles": {
+      "carbsPer100": 63,
+      "description": "Instant noodle blocks (pre-fried)",
+      "fatPer100": 17,
+      "freshBuy": false,
+      "id": "ramen_noodles",
+      "kcalPer100": 440,
+      "name": "Instant ramen/udon noodles",
+      "proteinPer100": 9,
+      "unit": "g"
+    },
+    "ravioli_cheese": {
+      "carbsPer100": 35,
+      "description": "Store-bought cheese ravioli, fresh or dried",
+      "fatPer100": 8,
+      "freshBuy": true,
+      "id": "ravioli_cheese",
+      "kcalPer100": 250,
+      "name": "Cheese ravioli",
+      "proteinPer100": 10,
+      "unit": "g"
+    },
+    "rice_paper_wrapper": {
+      "carbsPer100": 620,
+      "description": "Dried rice paper sheets, Asian aisle",
+      "fatPer100": 20,
+      "freshBuy": false,
+      "id": "rice_paper_wrapper",
+      "kcalPer100": 2600,
+      "name": "Rice paper wrappers",
+      "proteinPer100": 5,
+      "unit": "piece"
+    },
+    "rice_vermicelli": {
+      "carbsPer100": 84,
+      "description": "Dry rice noodles",
+      "fatPer100": 0.2,
+      "freshBuy": false,
+      "id": "rice_vermicelli",
+      "kcalPer100": 360,
+      "name": "Rice vermicelli noodles",
+      "proteinPer100": 3,
+      "unit": "g"
+    },
+    "rice_white": {
+      "carbsPer100": 80,
+      "description": "White rice — plain, risotto/short-grain or sushi rice all used interchangeably here",
+      "fatPer100": 0.7,
+      "freshBuy": false,
+      "id": "rice_white",
+      "kcalPer100": 365,
+      "name": "Rice",
+      "proteinPer100": 7,
+      "unit": "g"
+    },
+    "rolled_oats": {
+      "carbsPer100": 68,
+      "description": "Dry oats",
+      "fatPer100": 7,
+      "freshBuy": false,
+      "id": "rolled_oats",
+      "kcalPer100": 380,
+      "name": "Rolled oats",
+      "proteinPer100": 13,
+      "unit": "g"
+    },
+    "salsa": {
+      "carbsPer100": 6,
+      "description": "Jarred or fresh salsa",
+      "fatPer100": 0.2,
+      "freshBuy": false,
+      "id": "salsa",
+      "kcalPer100": 30,
+      "name": "Salsa",
+      "proteinPer100": 1,
+      "unit": "g"
+    },
+    "salt": {
+      "carbsPer100": 0,
+      "description": "Table salt",
+      "fatPer100": 0,
+      "freshBuy": false,
+      "id": "salt",
+      "kcalPer100": 0,
+      "name": "Salt",
+      "proteinPer100": 0,
+      "unit": "g"
+    },
+    "sesame_seeds": {
+      "carbsPer100": 23,
+      "description": "Sesame seeds",
+      "fatPer100": 50,
+      "freshBuy": false,
+      "id": "sesame_seeds",
+      "kcalPer100": 573,
+      "name": "Sesame seeds",
+      "proteinPer100": 18,
+      "unit": "g"
+    },
+    "sour_cabbage": {
+      "carbsPer100": 4,
+      "description": "Kiseli kupus, jar or bag",
+      "fatPer100": 0.2,
+      "freshBuy": true,
+      "id": "sour_cabbage",
+      "kcalPer100": 19,
+      "name": "Sour cabbage leaves",
+      "proteinPer100": 1,
+      "unit": "g"
+    },
+    "soy_sauce": {
+      "carbsPer100": 5,
+      "description": "Soy sauce",
+      "fatPer100": 0.1,
+      "freshBuy": false,
+      "id": "soy_sauce",
+      "kcalPer100": 53,
+      "name": "Soy sauce",
+      "proteinPer100": 8,
+      "unit": "ml"
+    },
+    "spinach": {
+      "carbsPer100": 3.6,
+      "description": "Fresh or frozen spinach",
+      "fatPer100": 0.4,
+      "freshBuy": true,
+      "id": "spinach",
+      "kcalPer100": 23,
+      "name": "Spinach",
+      "proteinPer100": 2.9,
+      "unit": "g"
+    },
+    "spring_onion": {
+      "carbsPer100": 5.7,
+      "description": "Fresh spring onion or chives",
+      "fatPer100": 0.25,
+      "freshBuy": true,
+      "id": "spring_onion",
+      "kcalPer100": 31,
+      "name": "Spring onion / chives",
+      "proteinPer100": 2.5,
+      "unit": "g"
+    },
+    "stock_cube": {
+      "carbsPer100": 100,
+      "description": "Vegetable stock cube",
+      "fatPer100": 10,
+      "freshBuy": false,
+      "id": "stock_cube",
+      "kcalPer100": 800,
+      "name": "Vegetable stock cube",
+      "proteinPer100": 20,
+      "unit": "piece"
+    },
+    "sugar": {
+      "carbsPer100": 100,
+      "description": "White or brown sugar",
+      "fatPer100": 0,
+      "freshBuy": false,
+      "id": "sugar",
+      "kcalPer100": 387,
+      "name": "Sugar",
+      "proteinPer100": 0,
+      "unit": "g"
+    },
+    "tofu": {
+      "carbsPer100": 3,
+      "description": "Firm tofu, cubed",
+      "fatPer100": 8.7,
+      "freshBuy": true,
+      "id": "tofu",
+      "kcalPer100": 144,
+      "name": "Firm tofu",
+      "proteinPer100": 15,
+      "unit": "g"
+    },
+    "tomato": {
+      "carbsPer100": 468,
+      "description": "Fresh tomatoes",
+      "fatPer100": 24,
+      "freshBuy": true,
+      "id": "tomato",
+      "kcalPer100": 2200,
+      "name": "Tomatoes",
+      "proteinPer100": 108,
+      "unit": "piece"
+    },
+    "tomato_pasta_sauce": {
+      "carbsPer100": 8,
+      "description": "Jarred tomato pasta sauce",
+      "fatPer100": 2,
+      "freshBuy": false,
+      "id": "tomato_pasta_sauce",
+      "kcalPer100": 55,
+      "name": "Tomato pasta sauce",
+      "proteinPer100": 1.5,
+      "unit": "g"
+    },
+    "tomato_paste": {
+      "carbsPer100": 19,
+      "description": "Concentrated tomato paste",
+      "fatPer100": 0.5,
+      "freshBuy": false,
+      "id": "tomato_paste",
+      "kcalPer100": 82,
+      "name": "Tomato paste",
+      "proteinPer100": 4.3,
+      "unit": "g"
+    },
+    "tomatoes_canned": {
+      "carbsPer100": 4.5,
+      "description": "Pelat, canned chopped tomatoes",
+      "fatPer100": 0.3,
+      "freshBuy": false,
+      "id": "tomatoes_canned",
+      "kcalPer100": 24,
+      "name": "Canned chopped tomatoes",
+      "proteinPer100": 1.2,
+      "unit": "g"
+    },
+    "tortilla": {
+      "carbsPer100": 2550,
+      "description": "Wheat flour tortillas",
+      "fatPer100": 350,
+      "freshBuy": false,
+      "id": "tortilla",
+      "kcalPer100": 15500,
+      "name": "Tortillas",
+      "proteinPer100": 400,
+      "unit": "piece"
+    },
+    "vinegar": {
+      "carbsPer100": 4,
+      "description": "Rice vinegar or plain vinegar",
+      "fatPer100": 0,
+      "freshBuy": false,
+      "id": "vinegar",
+      "kcalPer100": 20,
+      "name": "Vinegar",
+      "proteinPer100": 0,
+      "unit": "ml"
+    },
+    "yogurt_plain": {
+      "carbsPer100": 4.7,
+      "description": "Plain or Greek yogurt",
+      "fatPer100": 3.3,
+      "freshBuy": true,
+      "id": "yogurt_plain",
+      "kcalPer100": 61,
+      "name": "Plain/Greek yogurt",
+      "proteinPer100": 3.5,
+      "unit": "g"
+    },
+    "zucchini": {
+      "carbsPer100": 3,
+      "description": "Fresh zucchini/tikvice",
+      "fatPer100": 0.3,
+      "freshBuy": true,
+      "id": "zucchini",
+      "kcalPer100": 17,
+      "name": "Zucchini",
+      "proteinPer100": 1.2,
+      "unit": "g"
+    }
+  },
+  "recipes": {
+    "2_ingredient_oat_banana_cookies": {
+      "basePortions": 12,
+      "costTier": "lowest",
+      "id": "2_ingredient_oat_banana_cookies",
+      "ingredients": [
+        {
+          "ingredientId": "rolled_oats",
+          "qty": 100
+        },
+        {
+          "ingredientId": "banana",
+          "prep": "ripe, mashed",
+          "qty": 2
+        },
+        {
+          "displayQty": "pinch",
+          "ingredientId": "cinnamon",
+          "prep": "+ optional raisins/walnuts",
+          "qty": 2
+        }
+      ],
+      "name": "2-Ingredient Oat & Banana Cookies",
+      "note": "No flour, no butter, no added sugar beyond whatever's in the raisins — the one bakery item here you can actually eat often without it working against the 1800 kcal target.",
+      "steps": [
+        "Preheat oven to 180°C, line a tray.",
+        "Mash bananas, stir in oats, cinnamon and any extras until evenly combined.",
+        "Spoon 12 mounds onto the tray, flatten slightly with a fork.",
+        "Bake 15–18 min until golden at the edges."
+      ],
+      "tags": ["bakery", "dessert"],
+      "timeMinutes": 25
+    },
+    "avocado_egg_toast_seeded": {
+      "basePortions": 2,
+      "costTier": "low-med",
+      "ingredients": [
+        {
+          "displayQty": "4 slices",
+          "ingredientId": "bread_seeded",
+          "qty": 100
+        },
+        {
+          "ingredientId": "avocado",
+          "qty": 2
+        },
+        {
+          "ingredientId": "egg",
+          "qty": 2
+        },
+        {
+          "displayQty": "squeeze",
+          "ingredientId": "lemon",
+          "qty": 0.3
+        },
+        {
+          "displayQty": "1/2 tbsp, for frying the eggs",
+          "ingredientId": "oil",
+          "qty": 7
+        }
+      ],
+      "name": "Seeded Toast with Avocado & Egg",
+      "note": "A heartier version of the plain avocado toast — the egg on top makes it enough to carry you to lunch. Runny yolk works best here, but cook the eggs however you like them.",
+      "steps": [
+        "Toast the seeded bread.",
+        "Mash the avocado with the lemon juice, salt and pepper.",
+        "Fry or poach the eggs in a little oil to your preference.",
+        "Spread the mashed avocado over the toast, top each slice with an egg, season again, and add chili flakes if using."
+      ],
+      "tags": ["breakfast", "quick"],
+      "timeMinutes": 10
+    },
+    "avocado_tomato_toast": {
+      "basePortions": 2,
+      "costTier": "low-med",
+      "id": "avocado_tomato_toast",
+      "ingredients": [
+        {
+          "displayQty": "4 slices",
+          "ingredientId": "bread",
+          "qty": 100
+        },
+        {
+          "ingredientId": "avocado",
+          "qty": 2
+        },
+        {
+          "ingredientId": "tomato",
+          "prep": "sliced",
+          "qty": 1
+        },
+        {
+          "displayQty": "squeeze",
+          "ingredientId": "lemon",
+          "qty": 0.3
+        }
+      ],
+      "name": "Avocado & Tomato Toast",
+      "note": "Avocado prices swing a lot — worth checking before making this a regular. Good with a boiled egg on top for more protein.",
+      "steps": [
+        "Toast the bread.",
+        "Mash the avocado with lemon juice, salt and pepper.",
+        "Spread over the toast, top with tomato slices, season again, add chili flakes if using."
+      ],
+      "tags": ["breakfast", "quick"],
+      "timeMinutes": 8
+    },
+    "baked_gnocchi_with_tomato_mozzarella": {
+      "basePortions": 6,
+      "costTier": "low-med",
+      "id": "baked_gnocchi_with_tomato_mozzarella",
+      "ingredients": [
+        {
+          "ingredientId": "gnocchi",
+          "qty": 1500
+        },
+        {
+          "displayQty": "1.5 jars, or 3 cans chopped tomatoes",
+          "ingredientId": "tomato_pasta_sauce",
+          "qty": 1100
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "oil",
+          "qty": 14
+        },
+        {
+          "ingredientId": "cheese_mozzarella",
+          "qty": 200
+        }
+      ],
+      "name": "Baked Gnocchi with Tomato & Mozzarella",
+      "note": "A good one to assemble ahead — build it in the morning, keep covered in the fridge, then bake at dinner time. Reheats, and even freezes, better than the pan-fried version above.",
+      "steps": [
+        "Preheat oven to 200°C. Boil the gnocchi briefly, just 1–2 min until they float — they'll finish cooking in the oven, so don't fully cook them here. Drain.",
+        "Sauté onion and garlic in oil, 5 min, add the tomato sauce, simmer 8–10 min, season.",
+        "Combine the gnocchi with the sauce in a baking dish, scatter mozzarella over the top.",
+        "Bake 15–18 min until bubbling and golden in spots."
+      ],
+      "tags": ["italian", "make-ahead"],
+      "timeMinutes": 35
+    },
+    "banana_bread": {
+      "basePortions": 10,
+      "costTier": "low",
+      "id": "banana_bread",
+      "ingredients": [
+        {
+          "ingredientId": "banana",
+          "prep": "very ripe, mashed",
+          "qty": 3
+        },
+        {
+          "ingredientId": "egg",
+          "qty": 2
+        },
+        {
+          "ingredientId": "sugar",
+          "qty": 80
+        },
+        {
+          "ingredientId": "oil",
+          "qty": 70
+        },
+        {
+          "ingredientId": "flour",
+          "qty": 200
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "baking_soda",
+          "qty": 5
+        },
+        {
+          "displayQty": "optional",
+          "ingredientId": "cinnamon",
+          "qty": 2
+        }
+      ],
+      "name": "Banana Bread",
+      "note": "One bowl, no mixer, and by far the lightest thing in this section — a good use for bananas that are about to go off, and mild enough to work as a breakfast side too. Keeps 4 days, freezes well sliced.",
+      "steps": [
+        "Preheat oven to 180°C, line a loaf pan.",
+        "Mash bananas, whisk in eggs, sugar and oil.",
+        "Fold in flour, baking soda and salt — don't overmix.",
+        "Pour into the pan, bake 50–55 min until a skewer comes out clean."
+      ],
+      "tags": ["bakery", "dessert", "make-ahead"],
+      "timeMinutes": 60
+    },
+    "bean_cheese_quesadillas": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "bean_cheese_quesadillas",
+      "ingredients": [
+        {
+          "ingredientId": "tortilla",
+          "qty": 6
+        },
+        {
+          "displayQty": "1 can",
+          "ingredientId": "beans_refried_canned",
+          "qty": 400
+        },
+        {
+          "ingredientId": "cheese_hard_grated",
+          "qty": 150
+        },
+        {
+          "ingredientId": "bell_pepper",
+          "prep": "diced",
+          "qty": 1
+        }
+      ],
+      "name": "Bean & Cheese Quesadillas",
+      "note": "The cheesiest dish in the plan, so a good one to pair with a lighter lunch that day. No oil needed — the tortilla toasts fine dry.",
+      "steps": [
+        "Spread mashed beans over half of each tortilla, scatter cheese and pepper, fold in half.",
+        "Dry-fry in a pan, 2–3 min per side, until golden and the cheese has melted.",
+        "Cut into wedges, serve with salsa."
+      ],
+      "tags": ["mexican"],
+      "timeMinutes": 20
+    },
+    "bean_veggie_burritos": {
+      "basePortions": 2,
+      "costTier": "low",
+      "id": "bean_veggie_burritos",
+      "ingredients": [
+        {
+          "ingredientId": "tortilla",
+          "qty": 4
+        },
+        {
+          "displayQty": "1 can",
+          "ingredientId": "beans_black_canned",
+          "qty": 400
+        },
+        {
+          "displayQty": "½ can, drained",
+          "ingredientId": "corn_canned",
+          "qty": 75
+        },
+        {
+          "ingredientId": "cabbage",
+          "prep": "shredded, or lettuce",
+          "qty": 100
+        },
+        {
+          "ingredientId": "carrot",
+          "prep": "grated",
+          "qty": 50
+        },
+        {
+          "ingredientId": "salsa",
+          "qty": 60
+        },
+        {
+          "displayQty": "squeeze",
+          "ingredientId": "lime",
+          "qty": 1
+        },
+        {
+          "ingredientId": "avocado",
+          "prep": "if affordable",
+          "qty": 0.5
+        }
+      ],
+      "name": "Bean & Veggie Burritos",
+      "note": "Genuinely no real cooking involved — good for a night when even 20 minutes feels like too much. Best eaten fresh, doesn't store well rolled.",
+      "steps": [
+        "Warm the beans in a pan with a pinch of cumin and paprika, 5 min (or skip and use cold).",
+        "Fill tortillas with beans, corn, slaw, salsa and a squeeze of lime.",
+        "Roll up tightly, folding in the ends."
+      ],
+      "tags": ["mexican", "no-cook", "quick"],
+      "timeMinutes": 15
+    },
+    "caramelized_chickpeas_cocoa": {
+      "basePortions": 3,
+      "costTier": "low",
+      "ingredients": [
+        {
+          "ingredientId": "chickpeas_dry",
+          "qty": 150
+        },
+        {
+          "displayQty": "4 tbsp powdered sugar",
+          "ingredientId": "sugar",
+          "qty": 32
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "cinnamon",
+          "qty": 3
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "cocoa_powder",
+          "qty": 6
+        },
+        {
+          "displayQty": "1 tsp vanilla sugar",
+          "ingredientId": "sugar",
+          "qty": 4
+        }
+      ],
+      "name": "Caramelized Chickpeas with Cinnamon & Cocoa",
+      "note": "Needs an overnight soak before you start, so plan a day ahead — the actual hands-on time is short.",
+      "steps": [
+        "Soak the dry chickpeas overnight in cold water.",
+        "Drain and boil until tender (about 50 min), then cool and pat completely dry.",
+        "Mix the powdered sugar, cinnamon, cocoa and vanilla sugar in a bag or bowl, then toss the chickpeas through until evenly coated.",
+        "Spread on a parchment-lined tray and bake at 190°C for 30–40 min, stirring occasionally, until the coating turns glossy and caramelized.",
+        "Cool completely before eating — they crisp up as they cool."
+      ],
+      "tags": ["dessert", "make-ahead"],
+      "timeMinutes": 90
+    },
+    "cheese_ravioli_with_tomato_butter_sauce": {
+      "basePortions": 6,
+      "costTier": "medium",
+      "id": "cheese_ravioli_with_tomato_butter_sauce",
+      "ingredients": [
+        {
+          "displayQty": "3 packs",
+          "ingredientId": "ravioli_cheese",
+          "qty": 1100
+        },
+        {
+          "displayQty": "1 jar, or 2 cans chopped tomatoes",
+          "ingredientId": "tomato_pasta_sauce",
+          "qty": 700
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "displayQty": "3 tbsp",
+          "ingredientId": "butter",
+          "qty": 40
+        },
+        {
+          "displayQty": "a few torn leaves, or dried oregano",
+          "ingredientId": "basil",
+          "qty": 5
+        },
+        {
+          "displayQty": "to serve",
+          "ingredientId": "cheese_hard_grated",
+          "qty": 40
+        }
+      ],
+      "name": "Cheese Ravioli with Tomato-Butter Sauce",
+      "note": "Ravioli are more delicate than regular pasta — go gently at every step. Reheats fine on the stove with a splash of water to loosen the sauce, though the filling is best within 2–3 days.",
+      "steps": [
+        "Sauté onion and garlic in butter, 5 min, until soft.",
+        "Add the tomato sauce or chopped tomatoes, simmer 10 min, season with oregano or basil, salt and pepper.",
+        "Meanwhile, boil the ravioli in a wide pot of salted water per packet instructions (usually 3–5 min — they float when ready). Drain gently; they tear easily, so don't stir roughly or dump them from a height.",
+        "Fold the ravioli gently into the sauce, top with grated cheese."
+      ],
+      "tags": ["italian"],
+      "timeMinutes": 20
+    },
+    "chili_with_beans_corn": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "chili_with_beans_corn",
+      "ingredients": [
+        {
+          "displayQty": "2 cans, drained",
+          "ingredientId": "beans_kidney_canned",
+          "qty": 800
+        },
+        {
+          "displayQty": "1 can, drained",
+          "ingredientId": "corn_canned",
+          "qty": 300
+        },
+        {
+          "displayQty": "1 can, or 500g fresh",
+          "ingredientId": "tomatoes_canned",
+          "qty": 400
+        },
+        {
+          "displayQty": "2 onions",
+          "ingredientId": "onion",
+          "qty": 300
+        },
+        {
+          "ingredientId": "bell_pepper",
+          "prep": "red bell pepper",
+          "qty": 1
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "oil",
+          "qty": 14
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "paprika_powder",
+          "qty": 14
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "cumin",
+          "qty": 5
+        },
+        {
+          "displayQty": "to serve",
+          "ingredientId": "rice_white",
+          "qty": 300
+        }
+      ],
+      "name": "Chili with Beans & Corn",
+      "note": "Keeps 4 days in the fridge, freezes well. You already know this one — recipe here just for the shopping list.",
+      "steps": [
+        "Sauté chopped onion, garlic and pepper in oil, 5 min.",
+        "Add paprika and cumin, stir 30 seconds, then add tomatoes, beans and corn.",
+        "Simmer uncovered 20 min, stirring occasionally, until thickened. Season with salt and chili.",
+        "Serve over rice."
+      ],
+      "tags": ["mexican"],
+      "timeMinutes": 35
+    },
+    "classic_pancakes": {
+      "basePortions": 3,
+      "costTier": "lowest",
+      "ingredients": [
+        {
+          "ingredientId": "milk",
+          "qty": 190
+        },
+        {
+          "ingredientId": "egg",
+          "qty": 2
+        },
+        {
+          "ingredientId": "flour",
+          "qty": 180
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "baking_powder",
+          "qty": 5
+        },
+        {
+          "displayQty": "~2 tbsp, batter + frying",
+          "ingredientId": "oil",
+          "qty": 25
+        },
+        {
+          "displayQty": "2 tbsp",
+          "ingredientId": "sugar",
+          "qty": 30
+        },
+        {
+          "displayQty": "1/2 tsp",
+          "ingredientId": "salt",
+          "qty": 2
+        }
+      ],
+      "name": "Classic Pancakes",
+      "note": "Makes about 12–15 small (7–8cm) pancakes. Serve right away with berries, nuts, syrup, honey or condensed milk.",
+      "steps": [
+        "Whisk the egg with sugar and salt until dissolved, then whisk in the milk and oil.",
+        "Sift the flour and baking powder together, then stir into the wet mixture — mix just until combined so the batter stays tender.",
+        "Heat a dry, smooth non-stick pan over medium heat. Pour in batter one pancake at a time and let it spread into a small round.",
+        "Flip when bubbles appear on the surface and the top looks set but still slightly moist; cook the second side until matching.",
+        "Serve warm, straight from the pan."
+      ],
+      "tags": ["american", "breakfast", "quick"],
+      "timeMinutes": 30
+    },
+    "creamy_mushroom_soup": {
+      "basePortions": 6,
+      "costTier": "low-med",
+      "ingredients": [
+        {
+          "ingredientId": "mushroom",
+          "qty": 700
+        },
+        {
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "ingredientId": "butter",
+          "qty": 50
+        },
+        {
+          "ingredientId": "flour",
+          "qty": 45
+        },
+        {
+          "ingredientId": "milk",
+          "qty": 1000
+        },
+        {
+          "ingredientId": "stock_cube",
+          "qty": 1.5
+        },
+        {
+          "ingredientId": "parsley",
+          "qty": 10
+        },
+        {
+          "displayQty": "pinch",
+          "ingredientId": "nutmeg",
+          "qty": 2
+        },
+        {
+          "displayQty": "pinch",
+          "ingredientId": "pepper",
+          "qty": 1
+        },
+        {
+          "displayQty": "to taste",
+          "ingredientId": "salt",
+          "qty": 2
+        }
+      ],
+      "name": "Creamy Mushroom Soup",
+      "note": "Milky and comforting — basically your creamy mushroom pasta sauce thinned into a soup, with a stock cube for extra depth. Blend partway or fully if you want it smooth instead of chunky.",
+      "steps": [
+        "Sauté diced onion and garlic in butter until soft, then add sliced mushrooms and cook until they release their liquid and start to brown.",
+        "Stir in the flour and cook a minute to form a roux, then gradually whisk in the milk and crumbled stock cube.",
+        "Simmer gently, stirring often, until thickened and the mushrooms are fully tender.",
+        "Season with nutmeg, pepper and salt to taste; stir through chopped parsley just before serving."
+      ],
+      "tags": ["quick"],
+      "timeMinutes": 35
+    },
+    "creamy_potato_leek_soup": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "creamy_potato_leek_soup",
+      "ingredients": [
+        {
+          "displayQty": "6 potatoes, cubed",
+          "ingredientId": "potato",
+          "qty": 900
+        },
+        {
+          "displayQty": "2 leeks, or 2 onions",
+          "ingredientId": "leek",
+          "qty": 300
+        },
+        {
+          "displayQty": "1.5L stock",
+          "ingredientId": "stock_cube",
+          "qty": 1.5
+        },
+        {
+          "ingredientId": "yogurt_plain",
+          "qty": 150
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "oil",
+          "qty": 14
+        },
+        {
+          "ingredientId": "spring_onion",
+          "prep": "chives",
+          "qty": 10
+        },
+        {
+          "displayQty": "to serve",
+          "ingredientId": "bread",
+          "qty": 100
+        }
+      ],
+      "name": "Creamy Potato-Leek Soup",
+      "note": "Yogurt does the \"creamy\" work here instead of actual cream — most of the fat saving in this one is that swap. Keeps 4 days.",
+      "steps": [
+        "Sauté leek in oil 6 min until soft, don't brown.",
+        "Add potato and stock, simmer 20 min until potato falls apart easily.",
+        "Blend smooth with an immersion blender. Off the heat, stir in yogurt (boiling it after will split it).",
+        "Season, top with chives, serve with bread."
+      ],
+      "tags": ["american"],
+      "timeMinutes": 35
+    },
+    "easy_apple_pie": {
+      "basePortions": 8,
+      "costTier": "low",
+      "id": "easy_apple_pie",
+      "ingredients": [
+        {
+          "ingredientId": "flour",
+          "prep": "dough, plus extra for rolling",
+          "qty": 300
+        },
+        {
+          "ingredientId": "butter",
+          "prep": "cold, cubed",
+          "qty": 150
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "sugar",
+          "qty": 12
+        },
+        {
+          "ingredientId": "apple",
+          "prep": "peeled and thinly sliced",
+          "qty": 6
+        },
+        {
+          "displayQty": "3 tbsp, for filling",
+          "ingredientId": "sugar",
+          "qty": 36
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "cinnamon",
+          "qty": 5
+        },
+        {
+          "displayQty": "1 tbsp juice",
+          "ingredientId": "lemon",
+          "qty": 0.3
+        },
+        {
+          "displayQty": "1 tbsp, for filling",
+          "ingredientId": "flour",
+          "qty": 8
+        },
+        {
+          "ingredientId": "egg",
+          "prep": "beaten, for brushing",
+          "qty": 1
+        }
+      ],
+      "name": "Easy Apple Pie",
+      "note": "A basic shortcrust — just butter, flour, sugar, salt and water, no special equipment. The only trick is keeping everything cold and not overworking the dough. Keeps 3 days at room temperature covered, or refrigerate in warm weather.",
+      "steps": [
+        "Make the dough: rub cold butter into the flour, sugar and salt with your fingertips until it looks like coarse breadcrumbs. Add ice water 1 tbsp at a time, mixing just until it comes together — don't overwork it.",
+        "Shape into a disc, wrap, and chill 30 min (this step matters — warm dough is hard to roll and shrinks in the oven).",
+        "Preheat oven to 190°C. Split the dough roughly in half, roll one half out on a floured surface, and line a pie or tart dish, letting the edges overhang slightly.",
+        "Toss apple slices with sugar, cinnamon, lemon juice and flour. Pile into the crust.",
+        "Roll out the second half, cover the pie (whole lid with a few vent cuts, or torn strips for a rustic look), pinch the edges together, brush with egg.",
+        "Bake 50–60 min until deep golden and the filling is visibly bubbling through the vents — tent loosely with foil if the top browns too fast before that. Cool 15 min before slicing."
+      ],
+      "tags": ["bakery", "dessert", "make-ahead"],
+      "timeMinutes": 90
+    },
+    "easy_lemon_pie": {
+      "basePortions": 8,
+      "costTier": "low-med",
+      "id": "easy_lemon_pie",
+      "ingredients": [
+        {
+          "ingredientId": "biscuits_plain",
+          "prep": "crushed",
+          "qty": 200
+        },
+        {
+          "ingredientId": "butter",
+          "prep": "melted",
+          "qty": 80
+        },
+        {
+          "displayQty": "1 can",
+          "ingredientId": "condensed_milk",
+          "qty": 400
+        },
+        {
+          "ingredientId": "egg",
+          "prep": "yolks",
+          "qty": 3
+        },
+        {
+          "displayQty": "juice & zest of 3–4",
+          "ingredientId": "lemon",
+          "qty": 3.5
+        }
+      ],
+      "name": "Easy Lemon Pie",
+      "note": "No mixer, no pastry-making — just crush, whisk, pour. The richest thing in this whole plan, so a genuine once-in-a-while treat rather than a weekly habit. Keeps 4 days refrigerated.",
+      "steps": [
+        "Preheat oven to 160°C. Mix crushed biscuits with melted butter, press firmly into a pie dish to form a crust.",
+        "Whisk condensed milk, egg yolks, lemon juice and zest together until thick and pale.",
+        "Pour over the crust, bake 15 min until just set with a slight wobble in the center (baking it briefly makes the egg yolks safe to eat, unlike a true no-bake version).",
+        "Cool, then chill at least 3 hours before slicing."
+      ],
+      "tags": ["bakery", "dessert", "no-cook"],
+      "timeMinutes": 30
+    },
+    "fried_chinese_style_veg_with_rice": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "fried_chinese_style_veg_with_rice",
+      "ingredients": [
+        {
+          "ingredientId": "broccoli",
+          "prep": "frozen stir-fry vegetable mix",
+          "qty": 800
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 3
+        },
+        {
+          "displayQty": "thumb, or ½ tsp ground",
+          "ingredientId": "ginger",
+          "qty": 8
+        },
+        {
+          "displayQty": "3 tbsp",
+          "ingredientId": "soy_sauce",
+          "qty": 42
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "oil",
+          "qty": 14
+        },
+        {
+          "displayQty": "pinch",
+          "ingredientId": "sugar",
+          "qty": 3
+        },
+        {
+          "ingredientId": "rice_white",
+          "prep": "cooked separately",
+          "qty": 300
+        },
+        {
+          "ingredientId": "egg",
+          "prep": "optional, scrambled in",
+          "qty": 2
+        }
+      ],
+      "name": "Fried Chinese-Style Veg with Rice",
+      "note": "Your existing go-to — frozen mixed veg keeps this fast. Best fresh; reheats fine for 3 days.",
+      "steps": [
+        "Cook rice. Meanwhile, heat oil in a wide pan or wok, add garlic and ginger, 30 sec.",
+        "Add frozen vegetables straight from the freezer, stir-fry on high heat 6–8 min.",
+        "Add soy sauce and sugar, toss. Stir in scrambled egg if using.",
+        "Serve over rice."
+      ],
+      "tags": ["chinese"],
+      "timeMinutes": 25
+    },
+    "lentil_salad_tomato_basil": {
+      "basePortions": 3,
+      "costTier": "low-med",
+      "ingredients": [
+        {
+          "ingredientId": "lentils_brown_green",
+          "qty": 100
+        },
+        {
+          "displayQty": "2-3 stalks",
+          "ingredientId": "spring_onion",
+          "qty": 28
+        },
+        {
+          "ingredientId": "cherry_tomato",
+          "qty": 14
+        },
+        {
+          "ingredientId": "cheese_hard_grated",
+          "prep": "shaved",
+          "qty": 50
+        },
+        {
+          "displayQty": "2 tbsp, olive oil",
+          "ingredientId": "oil",
+          "qty": 28
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 1
+        },
+        {
+          "displayQty": "6 leaves, torn",
+          "ingredientId": "basil",
+          "qty": 4
+        },
+        {
+          "displayQty": "pinch, to taste",
+          "ingredientId": "chili_flakes",
+          "qty": 1
+        },
+        {
+          "displayQty": "to taste",
+          "ingredientId": "salt",
+          "qty": 1
+        }
+      ],
+      "name": "Lentil Salad with Tomato & Basil",
+      "note": "A light, barely-cooked salad — boil the lentils, then toss everything else through a garlic-chili-basil infused olive oil.",
+      "steps": [
+        "Boil the lentils until just tender but still holding their shape, then drain and cool slightly.",
+        "Warm the oil gently with minced garlic, chili flakes and torn basil to infuse, then set aside.",
+        "Chop the spring onion and halve the cherry tomatoes; shave the cheese with a peeler.",
+        "Toss the lentils with the vegetables and cheese, dress with the infused oil, and season with salt to taste."
+      ],
+      "tags": ["mediterranean", "quick"],
+      "timeMinutes": 30
+    },
+    "loaded_baked_potatoes": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "loaded_baked_potatoes",
+      "ingredients": [
+        {
+          "displayQty": "6 medium potatoes",
+          "ingredientId": "potato",
+          "qty": 900
+        },
+        {
+          "ingredientId": "cottage_cheese",
+          "prep": "or plain yogurt",
+          "qty": 300
+        },
+        {
+          "displayQty": "1 can, drained",
+          "ingredientId": "corn_canned",
+          "qty": 300
+        },
+        {
+          "displayQty": "1 can, drained",
+          "ingredientId": "beans_black_canned",
+          "qty": 400
+        },
+        {
+          "ingredientId": "spring_onion",
+          "prep": "chopped, or chives",
+          "qty": 15
+        }
+      ],
+      "name": "Loaded Baked Potatoes",
+      "note": "You already know this one — this version adds a low-fat topping bar instead of butter and sour cream. For a richer night, spoon over the mushroom white sauce from Pasta with Creamy Mushroom Sauce (Italian) instead of the toppings bar. Reheats fine 3 days; keep toppings separate from the potatoes if storing.",
+      "steps": [
+        "Preheat oven to 210°C. Prick potatoes, bake directly on the rack 40–45 min until a knife slides in easily.",
+        "Split open, top with cottage cheese, corn, beans and herbs — build a \"toppings bar\" and let each of you load your own."
+      ],
+      "tags": ["american"],
+      "timeMinutes": 45
+    },
+    "minestrone_style_bean_pasta_soup": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "minestrone_style_bean_pasta_soup",
+      "ingredients": [
+        {
+          "displayQty": "1 can, drained",
+          "ingredientId": "beans_white_canned",
+          "qty": 400
+        },
+        {
+          "ingredientId": "pasta",
+          "prep": "small soup pasta",
+          "qty": 150
+        },
+        {
+          "displayQty": "2 carrots",
+          "ingredientId": "carrot",
+          "qty": 150
+        },
+        {
+          "displayQty": "2 stalks",
+          "ingredientId": "celery",
+          "qty": 150
+        },
+        {
+          "displayQty": "¼ cabbage",
+          "ingredientId": "cabbage",
+          "qty": 250
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "displayQty": "1 can",
+          "ingredientId": "tomatoes_canned",
+          "qty": 400
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "oil",
+          "qty": 14
+        },
+        {
+          "displayQty": "1.5L stock",
+          "ingredientId": "stock_cube",
+          "qty": 1.5
+        }
+      ],
+      "name": "Minestrone-Style Bean & Pasta Soup",
+      "note": "Very light, very cheap — good on a day you want something easy on the stomach. Keeps 4 days (pasta softens further, still fine).",
+      "steps": [
+        "Sauté onion, carrot, celery in oil, 6 min.",
+        "Add stock, tomatoes, cabbage and beans, simmer 15 min.",
+        "Add pasta, cook a further 8–10 min until tender. Season."
+      ],
+      "tags": ["italian"],
+      "timeMinutes": 35
+    },
+    "miso_soup_with_tofu_vegetables": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "miso_soup_with_tofu_vegetables",
+      "ingredients": [
+        {
+          "displayQty": "4 tbsp",
+          "ingredientId": "miso_paste",
+          "qty": 68
+        },
+        {
+          "ingredientId": "tofu",
+          "qty": 300
+        },
+        {
+          "ingredientId": "spinach",
+          "prep": "or dried seaweed/wakame",
+          "qty": 50
+        },
+        {
+          "displayQty": "2, sliced",
+          "ingredientId": "spring_onion",
+          "qty": 30
+        }
+      ],
+      "name": "Miso Soup with Tofu & Vegetables",
+      "note": "A starter or side, not a full meal on its own — pair with the sushi rolls or the teriyaki tofu bowl.",
+      "steps": [
+        "Heat water until just below boiling — don't let it boil once the miso goes in.",
+        "Whisk in miso paste until dissolved.",
+        "Add tofu and spinach, warm through 3–4 min. Top with spring onion."
+      ],
+      "tags": ["japanese", "quick"],
+      "timeMinutes": 15
+    },
+    "overnight_oats_no_cook": {
+      "basePortions": 2,
+      "costTier": "lowest",
+      "id": "overnight_oats_no_cook",
+      "ingredients": [
+        {
+          "ingredientId": "rolled_oats",
+          "qty": 100
+        },
+        {
+          "ingredientId": "yogurt_plain",
+          "qty": 250
+        },
+        {
+          "ingredientId": "milk",
+          "qty": 150
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "honey",
+          "qty": 21
+        },
+        {
+          "ingredientId": "apple",
+          "prep": "grated or diced, or a handful of berries",
+          "qty": 1
+        }
+      ],
+      "name": "Overnight Oats (No-Cook)",
+      "note": "The best option for a rushed morning — make two nights' worth at once and it's ready before you're properly awake. Keeps 2–3 days in the fridge if you want to prep further ahead.",
+      "steps": [
+        "Stir oats, yogurt, milk and honey together in two jars or bowls.",
+        "Add the fruit — stir it through, or layer it on top.",
+        "Cover and refrigerate overnight (at least 4 hours). Eat cold, straight from the fridge."
+      ],
+      "tags": ["breakfast", "no-cook", "make-ahead"],
+      "timeMinutes": 5
+    },
+    "pan_fried_gnocchi_with_onion_herbs": {
+      "basePortions": 6,
+      "costTier": "low-med",
+      "id": "pan_fried_gnocchi_with_onion_herbs",
+      "ingredients": [
+        {
+          "displayQty": "3 x 500g packs",
+          "ingredientId": "gnocchi",
+          "qty": 1500
+        },
+        {
+          "displayQty": "2 onions, sliced",
+          "ingredientId": "onion",
+          "qty": 300
+        },
+        {
+          "displayQty": "2 tbsp",
+          "ingredientId": "butter",
+          "qty": 28
+        },
+        {
+          "displayQty": "1 tsp dried sage or rosemary",
+          "ingredientId": "oregano",
+          "qty": 5
+        },
+        {
+          "displayQty": "handful",
+          "ingredientId": "parsley",
+          "prep": "chopped",
+          "qty": 10
+        },
+        {
+          "displayQty": "optional",
+          "ingredientId": "cheese_hard_grated",
+          "qty": 50
+        }
+      ],
+      "name": "Pan-Fried Gnocchi with Onion & Herbs",
+      "note": "This is the classic boil-then-fry method — the pan-frying is what makes gnocchi worth cooking over plain pasta. Best fresh and crisp; if reheating, use a hot dry pan rather than the microwave so they don't turn mushy.",
+      "steps": [
+        "Bring a large pot of salted water to the boil. Cook gnocchi per packet instructions (usually 2–3 min — they float when done), in 2–3 batches so the pot doesn't get crowded. Drain well, toss with a little oil so they don't stick together.",
+        "Meanwhile, sauté the onion in butter over medium heat, 8–10 min, until soft and starting to turn golden.",
+        "Add the drained gnocchi to the pan with the herbs, and fry 6–8 min, stirring only occasionally, until they pick up some golden-brown spots.",
+        "Season, stir through parsley, scatter cheese over if using."
+      ],
+      "tags": ["italian"],
+      "timeMinutes": 20
+    },
+    "pasta_with_creamy_mushroom_sauce": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "pasta_with_creamy_mushroom_sauce",
+      "ingredients": [
+        {
+          "ingredientId": "pasta",
+          "qty": 500
+        },
+        {
+          "ingredientId": "mushroom",
+          "qty": 550
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "displayQty": "3 tbsp",
+          "ingredientId": "butter",
+          "qty": 40
+        },
+        {
+          "displayQty": "3.5 tbsp",
+          "ingredientId": "flour",
+          "qty": 30
+        },
+        {
+          "ingredientId": "milk",
+          "qty": 650
+        },
+        {
+          "ingredientId": "parsley",
+          "prep": "chopped",
+          "qty": 10
+        }
+      ],
+      "name": "Pasta with Creamy Mushroom Sauce",
+      "note": "A basic white sauce (béchamel) with mushrooms folded in — the same sauce works spooned over Loaded Baked Potatoes instead of the toppings bar, for a richer version. Best fresh; reheats gently on the stove with a splash of milk to loosen it.",
+      "steps": [
+        "Boil pasta per packet instructions.",
+        "Meanwhile, sauté onion and garlic in butter, 3 min. Add mushrooms, cook 7–8 min until they release their liquid and it mostly evaporates.",
+        "Sprinkle flour over, stir 1 min to coat. Gradually whisk in milk, a splash at a time, until smooth.",
+        "Simmer 6–8 min, stirring often, until it coats the back of a spoon. Season with salt, pepper and a little nutmeg. Toss with the drained pasta."
+      ],
+      "tags": ["italian"],
+      "timeMinutes": 30
+    },
+    "pasta_with_lentil_bolognese": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "pasta_with_lentil_bolognese",
+      "ingredients": [
+        {
+          "ingredientId": "pasta",
+          "qty": 500
+        },
+        {
+          "ingredientId": "lentils_brown_green",
+          "prep": "or 2 cans, drained",
+          "qty": 250
+        },
+        {
+          "displayQty": "1 can",
+          "ingredientId": "tomatoes_canned",
+          "qty": 400
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "displayQty": "1 carrot",
+          "ingredientId": "carrot",
+          "qty": 75
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "oil",
+          "qty": 14
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "oregano",
+          "qty": 5
+        }
+      ],
+      "name": "Pasta with Lentil \"Bolognese\"",
+      "note": "Lower in fat than the jarred-sauce version, and cheaper. Keeps 4 days, freezes well.",
+      "steps": [
+        "Sauté onion, carrot, garlic in oil, 6 min.",
+        "Add tomatoes and lentils (plus 300ml water if using dried lentils), simmer 25–30 min until the lentils are fully soft and the sauce has thickened — brown/green lentils take longer than red, so don't rush this.",
+        "Boil pasta, combine."
+      ],
+      "tags": ["italian"],
+      "timeMinutes": 40
+    },
+    "pasta_with_store_sauce_cheese": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "pasta_with_store_sauce_cheese",
+      "ingredients": [
+        {
+          "ingredientId": "pasta",
+          "qty": 500
+        },
+        {
+          "displayQty": "1 jar",
+          "ingredientId": "tomato_pasta_sauce",
+          "qty": 700
+        },
+        {
+          "ingredientId": "cheese_hard_grated",
+          "qty": 100
+        },
+        {
+          "ingredientId": "spinach",
+          "prep": "optional, or grated zucchini",
+          "qty": 50
+        }
+      ],
+      "name": "Pasta with Store Sauce & Cheese",
+      "note": "Go easy on the cheese portion — it's most of the fat in this dish. Best fresh; reheats fine for 2–3 days.",
+      "steps": [
+        "Boil pasta per packet instructions.",
+        "Warm the sauce, stir in spinach or zucchini if using.",
+        "Combine, top with grated cheese."
+      ],
+      "tags": ["italian"],
+      "timeMinutes": 20
+    },
+    "pea_lemon_risotto": {
+      "basePortions": 6,
+      "costTier": "medium",
+      "id": "pea_lemon_risotto",
+      "ingredients": [
+        {
+          "ingredientId": "rice_white",
+          "prep": "risotto or short-grain",
+          "qty": 400
+        },
+        {
+          "displayQty": "1.7L stock",
+          "ingredientId": "stock_cube",
+          "qty": 1.7
+        },
+        {
+          "displayQty": "300g frozen peas",
+          "ingredientId": "peas_frozen",
+          "qty": 300
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "ingredientId": "cheese_hard_grated",
+          "qty": 100
+        },
+        {
+          "displayQty": "zest & juice",
+          "ingredientId": "lemon",
+          "qty": 1
+        },
+        {
+          "displayQty": "1.5 tbsp",
+          "ingredientId": "oil",
+          "qty": 21
+        }
+      ],
+      "name": "Pea & Lemon Risotto",
+      "note": "The only real technique in this whole plan is \"add stock gradually and stir\" — no special equipment needed. A lighter Italian main; pair with a simple salad if you want more food on the plate. Best fresh, doesn't reheat as well as the others.",
+      "steps": [
+        "Sauté onion and garlic in oil, 5 min. Add rice, stir 1–2 min to coat in the oil.",
+        "Add warm stock a ladle at a time, stirring often, waiting for each to be absorbed before adding the next — about 18–20 min total.",
+        "Stir in peas for the last 5 min. Off the heat, stir in lemon zest, juice and cheese. Season."
+      ],
+      "tags": ["italian"],
+      "timeMinutes": 35
+    },
+    "quick_veggie_omelette": {
+      "basePortions": 2,
+      "costTier": "low",
+      "id": "quick_veggie_omelette",
+      "ingredients": [
+        {
+          "ingredientId": "egg",
+          "qty": 4
+        },
+        {
+          "displayQty": "a small handful",
+          "ingredientId": "tomato",
+          "prep": "chopped, with spinach & bell pepper or whatever's in the fridge",
+          "qty": 0.3
+        },
+        {
+          "ingredientId": "spinach",
+          "qty": 30
+        },
+        {
+          "ingredientId": "bell_pepper",
+          "qty": 0.3
+        },
+        {
+          "displayQty": "splash",
+          "ingredientId": "milk",
+          "qty": 20
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "oil",
+          "qty": 4.5
+        },
+        {
+          "displayQty": "optional handful",
+          "ingredientId": "cheese_hard_grated",
+          "qty": 15
+        }
+      ],
+      "name": "Quick Veggie Omelette",
+      "note": "Do these one at a time rather than doubling in one pan — the first stays warm while the second cooks, and it's easier to fold neatly.",
+      "steps": [
+        "Whisk eggs with a splash of milk, salt and pepper.",
+        "Heat oil in a non-stick pan over medium heat, add the vegetables, sauté 2–3 min until just softened.",
+        "Pour in the eggs, tilt the pan to spread evenly. Cook 2–3 min until mostly set, fold in half, cook a further minute."
+      ],
+      "tags": ["breakfast", "quick"],
+      "timeMinutes": 10
+    },
+    "ramen_with_egg": {
+      "basePortions": 2,
+      "costTier": "low",
+      "id": "ramen_with_egg",
+      "ingredients": [
+        {
+          "displayQty": "2 packs, half the seasoning",
+          "ingredientId": "ramen_noodles",
+          "qty": 170
+        },
+        {
+          "ingredientId": "egg",
+          "prep": "soft-boiled or poached",
+          "qty": 2
+        },
+        {
+          "ingredientId": "spinach",
+          "prep": "frozen, or leftover vegetables",
+          "qty": 50
+        },
+        {
+          "ingredientId": "spring_onion",
+          "qty": 10
+        }
+      ],
+      "name": "Ramen with Egg",
+      "note": "Your existing fallback — good for the flexible day when neither of you wants to cook properly.",
+      "steps": [
+        "Cook noodles per packet, adding vegetables in the last 2 min.",
+        "Cook the eggs separately: for soft-boiled, lower eggs into simmering water 6–7 min then transfer to cold water and peel; for poached, crack into barely-simmering water 3 min. Top each bowl with one egg just before serving."
+      ],
+      "tags": ["japanese", "quick"],
+      "timeMinutes": 15
+    },
+    "simple_salads_two_ways": {
+      "basePortions": 2,
+      "costTier": "low",
+      "id": "simple_salads_two_ways",
+      "ingredients": [
+        {
+          "displayQty": "2 handfuls",
+          "ingredientId": "lettuce",
+          "prep": "Garden Salad",
+          "qty": 60
+        },
+        {
+          "ingredientId": "tomato",
+          "prep": "Garden Salad",
+          "qty": 0.5
+        },
+        {
+          "ingredientId": "cucumber",
+          "prep": "Garden Salad",
+          "qty": 0.25
+        },
+        {
+          "ingredientId": "onion",
+          "prep": "thin red onion; Garden Salad",
+          "qty": 15
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "cheese_white_crumbled",
+          "prep": "Garden Salad",
+          "qty": 15
+        },
+        {
+          "ingredientId": "oil",
+          "prep": "olive oil + lemon juice to dress; Garden Salad",
+          "qty": 7
+        },
+        {
+          "ingredientId": "beans_white_canned",
+          "prep": "White Bean & Vegetable Salad",
+          "qty": 150
+        },
+        {
+          "ingredientId": "cherry_tomato",
+          "prep": "White Bean & Vegetable Salad",
+          "qty": 5
+        },
+        {
+          "ingredientId": "cucumber",
+          "prep": "White Bean & Vegetable Salad",
+          "qty": 0.25
+        },
+        {
+          "ingredientId": "onion",
+          "prep": "thin red onion; White Bean & Vegetable Salad",
+          "qty": 15
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "parsley",
+          "prep": "White Bean & Vegetable Salad",
+          "qty": 5
+        },
+        {
+          "ingredientId": "oil",
+          "prep": "olive oil + vinegar to dress; White Bean & Vegetable Salad",
+          "qty": 7
+        }
+      ],
+      "name": "Simple Salads, Two Ways",
+      "note": "The bean version has real protein in it, unlike the garden salad — better as a stand-alone light meal rather than a side.",
+      "steps": [
+        "Garden Salad: toss the lettuce, tomato, cucumber and red onion together, scatter the crumbled cheese over the top, then dress with olive oil and a squeeze of lemon juice just before serving.",
+        "White Bean & Vegetable Salad: combine the drained white beans, cherry tomatoes, cucumber and red onion, stir through the chopped parsley, then dress with olive oil and vinegar and season to taste."
+      ],
+      "tags": ["american", "quick", "no-cook"],
+      "timeMinutes": 10
+    },
+    "simple_sandwiches_two_ways": {
+      "basePortions": 2,
+      "costTier": "low",
+      "id": "simple_sandwiches_two_ways",
+      "ingredients": [
+        {
+          "displayQty": "4 slices",
+          "ingredientId": "bread",
+          "prep": "Grilled Cheese & Tomato",
+          "qty": 120
+        },
+        {
+          "displayQty": "1–2 slices",
+          "ingredientId": "cheese_hard_grated",
+          "prep": "Grilled Cheese & Tomato",
+          "qty": 40
+        },
+        {
+          "displayQty": "a few slices",
+          "ingredientId": "tomato",
+          "prep": "Grilled Cheese & Tomato",
+          "qty": 0.3
+        },
+        {
+          "displayQty": "a little, for the pan",
+          "ingredientId": "butter",
+          "prep": "Grilled Cheese & Tomato",
+          "qty": 5
+        },
+        {
+          "displayQty": "4 slices, or 2 wraps",
+          "ingredientId": "bread",
+          "prep": "Hummus, Cucumber & Roasted Pepper",
+          "qty": 120
+        },
+        {
+          "displayQty": "4–5 tbsp",
+          "ingredientId": "hummus",
+          "prep": "Hummus, Cucumber & Roasted Pepper",
+          "qty": 70
+        },
+        {
+          "ingredientId": "cucumber",
+          "prep": "Hummus, Cucumber & Roasted Pepper",
+          "qty": 0.2
+        },
+        {
+          "displayQty": "roasted red pepper",
+          "ingredientId": "bell_pepper",
+          "prep": "Hummus, Cucumber & Roasted Pepper",
+          "qty": 0.5
+        },
+        {
+          "displayQty": "a few leaves",
+          "ingredientId": "spinach",
+          "prep": "Hummus, Cucumber & Roasted Pepper",
+          "qty": 10
+        }
+      ],
+      "name": "Simple Sandwiches, Two Ways",
+      "note": "No cooking required for the second one. Both are here mainly for variety on nights you want something in five minutes rather than a proper batch dish.",
+      "steps": [
+        "Grilled Cheese & Tomato: butter one side of each bread slice, layer cheese and tomato slices between the unbuttered sides, then grill in a pan over medium heat, 2–3 min per side, until golden and the cheese has melted.",
+        "Hummus, Cucumber & Roasted Pepper: spread hummus on the bread or wrap, layer in the cucumber, roasted pepper and spinach, then fold or close and slice in half — no cooking needed for this one."
+      ],
+      "tags": ["american", "quick", "no-cook"],
+      "timeMinutes": 10
+    },
+    "simple_veggie_burgers": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "simple_veggie_burgers",
+      "ingredients": [
+        {
+          "displayQty": "2 cans, or chickpeas, mashed",
+          "ingredientId": "beans_black_canned",
+          "qty": 800
+        },
+        {
+          "ingredientId": "breadcrumbs",
+          "qty": 100
+        },
+        {
+          "ingredientId": "egg",
+          "qty": 1
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "cumin",
+          "qty": 5
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "paprika_powder",
+          "qty": 5
+        },
+        {
+          "displayQty": "1 tbsp, for frying",
+          "ingredientId": "oil",
+          "qty": 14
+        },
+        {
+          "ingredientId": "burger_bun",
+          "qty": 6
+        },
+        {
+          "ingredientId": "lettuce",
+          "qty": 60
+        },
+        {
+          "ingredientId": "tomato",
+          "qty": 1
+        }
+      ],
+      "name": "Simple Veggie Burgers",
+      "note": "Your own dish — recipe here mainly for the shopping list and quantities. Patties keep 3 days; assemble the burger fresh each time.",
+      "steps": [
+        "Mash beans well, mix in breadcrumbs, egg, onion and spices until it holds together — add more breadcrumbs if too wet.",
+        "Shape into 6 patties. Chill 10 min if you have time (helps them hold together).",
+        "Pan-fry in a little oil, 4–5 min per side until firm and browned.",
+        "Serve in buns with lettuce, tomato and whatever condiments you like."
+      ],
+      "tags": ["american", "make-ahead"],
+      "timeMinutes": 35
+    },
+    "soft_tacos_with_beans_salsa": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "soft_tacos_with_beans_salsa",
+      "ingredients": [
+        {
+          "ingredientId": "tortilla",
+          "prep": "small soft tortillas",
+          "qty": 12
+        },
+        {
+          "displayQty": "2 cans, drained",
+          "ingredientId": "beans_black_canned",
+          "qty": 800
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "cumin",
+          "qty": 5
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "chili_powder",
+          "qty": 5
+        },
+        {
+          "ingredientId": "cabbage",
+          "prep": "shredded",
+          "qty": 100
+        },
+        {
+          "ingredientId": "parsley",
+          "prep": "chopped",
+          "qty": 10
+        },
+        {
+          "ingredientId": "salsa",
+          "qty": 90
+        },
+        {
+          "displayQty": "squeeze",
+          "ingredientId": "lime",
+          "qty": 1
+        }
+      ],
+      "name": "Soft Tacos with Beans & Salsa",
+      "note": "The lightest dish in this section by far — beans and vegetables carry it rather than cheese or oil. Filling stores well 4 days; assemble fresh each time.",
+      "steps": [
+        "Sauté onion and garlic, add beans, spices and a splash of water, mash lightly with a fork, simmer 10 min.",
+        "Warm the tortillas briefly in a dry pan.",
+        "Fill with the bean mixture, cabbage, salsa, a squeeze of lime and parsley."
+      ],
+      "tags": ["mexican"],
+      "timeMinutes": 25
+    },
+    "stewed_potatoes_beans_peppers": {
+      "basePortions": 6,
+      "costTier": "low",
+      "ingredients": [
+        {
+          "ingredientId": "potato",
+          "qty": 1050
+        },
+        {
+          "displayQty": "~2 cans, drained",
+          "ingredientId": "beans_kidney_canned",
+          "qty": 450
+        },
+        {
+          "ingredientId": "bell_pepper",
+          "qty": 1.5
+        },
+        {
+          "ingredientId": "onion",
+          "qty": 120
+        },
+        {
+          "ingredientId": "carrot",
+          "qty": 120
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 3
+        },
+        {
+          "ingredientId": "tomato_paste",
+          "qty": 60
+        },
+        {
+          "displayQty": "4 tbsp, for sauteing",
+          "ingredientId": "oil",
+          "qty": 60
+        },
+        {
+          "displayQty": "to taste",
+          "ingredientId": "salt",
+          "qty": 2
+        },
+        {
+          "displayQty": "pinch",
+          "ingredientId": "pepper",
+          "qty": 1
+        }
+      ],
+      "name": "Stewed Potatoes with Bell Pepper & Beans",
+      "note": "Scaled up to a full 6-portion batch dish — sauté the aromatics well before adding the potatoes, that's where most of the flavor comes from.",
+      "steps": [
+        "Sauté diced onion, carrot and bell pepper in the oil until softened.",
+        "Add cubed potatoes and tomato paste mixed with a splash of water, cover and simmer until the potatoes are tender.",
+        "Stir in the drained beans and cook a few minutes more.",
+        "Finish with pressed garlic and black pepper, adjusting salt to taste."
+      ],
+      "tags": ["mediterranean"],
+      "timeMinutes": 35
+    },
+    "stovetop_oatmeal_your_way": {
+      "basePortions": 2,
+      "costTier": "lowest",
+      "id": "stovetop_oatmeal_your_way",
+      "ingredients": [
+        {
+          "ingredientId": "rolled_oats",
+          "qty": 100
+        },
+        {
+          "ingredientId": "milk",
+          "prep": "or water, or half and half",
+          "qty": 400
+        },
+        {
+          "ingredientId": "banana",
+          "prep": "sliced, or a handful of berries",
+          "qty": 1
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "honey",
+          "prep": "or brown sugar; pinch of cinnamon (optional)",
+          "qty": 21
+        }
+      ],
+      "name": "Stovetop Oatmeal, Your Way",
+      "note": "Water gives a lighter bowl, milk a creamier and more filling one. Swap the banana for whatever fruit is around — grated apple and cinnamon, or a spoon of jam, both work well.",
+      "steps": [
+        "Combine oats, milk or water and a pinch of salt in a small pot.",
+        "Bring to a gentle simmer, stirring occasionally, 5–6 min, until thick and creamy — add a splash more liquid if it gets too thick.",
+        "Spoon into bowls, top with sliced fruit, a drizzle of honey and cinnamon."
+      ],
+      "tags": ["breakfast"],
+      "timeMinutes": 10
+    },
+    "teriyaki_tofu_rice_bowl": {
+      "basePortions": 6,
+      "costTier": "medium",
+      "ingredients": [
+        {
+          "ingredientId": "tofu",
+          "qty": 500
+        },
+        {
+          "displayQty": "3 tbsp",
+          "ingredientId": "soy_sauce",
+          "qty": 42
+        },
+        {
+          "displayQty": "2 tbsp",
+          "ingredientId": "honey",
+          "qty": 28
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "vinegar",
+          "qty": 14
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 1
+        },
+        {
+          "displayQty": "thumb-sized piece",
+          "ingredientId": "ginger",
+          "qty": 5
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "cornstarch",
+          "qty": 3
+        },
+        {
+          "ingredientId": "rice_white",
+          "prep": "cooked separately",
+          "qty": 350
+        },
+        {
+          "ingredientId": "broccoli",
+          "prep": "or frozen edamame, steamed",
+          "qty": 150
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "oil",
+          "qty": 14
+        },
+        {
+          "displayQty": "optional",
+          "ingredientId": "sesame_seeds",
+          "qty": 5
+        }
+      ],
+      "name": "Teriyaki Tofu Rice Bowl",
+      "note": "The most \"full dinner\"-sized dish in this section. Keeps 3 days — tofu softens slightly on reheating.",
+      "steps": [
+        "Pan-fry tofu cubes in oil until golden, set aside.",
+        "Mix soy sauce, honey, vinegar, minced garlic, grated ginger and the cornstarch with a splash of water.",
+        "Pour over the tofu in the pan, simmer 2–3 min until glossy and thickened by the cornstarch.",
+        "Serve over rice with steamed broccoli."
+      ],
+      "tags": ["japanese"],
+      "timeMinutes": 30
+    },
+    "tofu_vegetable_stir_fry_with_rice": {
+      "basePortions": 6,
+      "costTier": "medium",
+      "id": "tofu_vegetable_stir_fry_with_rice",
+      "ingredients": [
+        {
+          "ingredientId": "tofu",
+          "qty": 400
+        },
+        {
+          "ingredientId": "broccoli",
+          "prep": "mixed veg: broccoli, carrot, bell pepper",
+          "qty": 600
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 3
+        },
+        {
+          "displayQty": "3 tbsp",
+          "ingredientId": "soy_sauce",
+          "qty": 42
+        },
+        {
+          "displayQty": "1.5 tbsp",
+          "ingredientId": "oil",
+          "qty": 21
+        },
+        {
+          "displayQty": "1 tsp, optional",
+          "ingredientId": "cornstarch",
+          "qty": 5
+        },
+        {
+          "ingredientId": "rice_white",
+          "prep": "cooked separately",
+          "qty": 300
+        }
+      ],
+      "name": "Tofu & Vegetable Stir-Fry with Rice",
+      "note": "Your best protein option in this list. Keeps 3 days — tofu softens a little on reheating but stays good.",
+      "steps": [
+        "Pat tofu dry, pan-fry cubes in a little oil until golden on a few sides, 6–8 min. Set aside.",
+        "In the same pan, stir-fry vegetables and garlic 6–8 min.",
+        "Return tofu, add soy sauce (mixed with cornstarch + splash of water if using), toss 1–2 min.",
+        "Serve over rice."
+      ],
+      "tags": ["chinese"],
+      "timeMinutes": 30
+    },
+    "vegetable_dumplings_potstickers": {
+      "basePortions": 6,
+      "costTier": "low-med",
+      "id": "vegetable_dumplings_potstickers",
+      "ingredients": [
+        {
+          "displayQty": "1 pack, ~24 dumplings",
+          "ingredientId": "dumpling_wrapper",
+          "qty": 26
+        },
+        {
+          "ingredientId": "cabbage",
+          "prep": "finely chopped, with carrot & mushroom",
+          "qty": 200
+        },
+        {
+          "ingredientId": "carrot",
+          "qty": 50
+        },
+        {
+          "displayQty": "optional",
+          "ingredientId": "mushroom",
+          "qty": 50
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "displayQty": "thumb",
+          "ingredientId": "ginger",
+          "qty": 8
+        },
+        {
+          "displayQty": "2 tbsp",
+          "ingredientId": "soy_sauce",
+          "qty": 28
+        },
+        {
+          "displayQty": "1.5 tbsp, + splash water for steaming",
+          "ingredientId": "oil",
+          "qty": 21
+        }
+      ],
+      "name": "Vegetable Dumplings (Potstickers)",
+      "note": "Store-bought wrappers make this far easier than it sounds. A lighter dish — pair with rice or a simple stir-fried veg side for a full meal. Best fresh.",
+      "steps": [
+        "Finely chop the cabbage, carrot and mushroom, salt lightly and let sit 10 min, then squeeze out as much liquid as you can — this stops the filling going watery and tearing the wrappers.",
+        "Mix the drained vegetables with garlic, ginger and soy sauce for the filling.",
+        "Place a spoonful in each wrapper, fold and seal the edges with a dab of water.",
+        "Pan-fry in oil 2–3 min until golden on the bottom, add a splash of water, cover and steam 5 min."
+      ],
+      "tags": ["chinese", "make-ahead"],
+      "timeMinutes": 35
+    },
+    "vegetable_egg_frittata": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "vegetable_egg_frittata",
+      "ingredients": [
+        {
+          "ingredientId": "egg",
+          "qty": 10
+        },
+        {
+          "displayQty": "3 potatoes, parboiled",
+          "ingredientId": "potato",
+          "qty": 450
+        },
+        {
+          "ingredientId": "spinach",
+          "qty": 250
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "ingredientId": "cheese_hard_grated",
+          "qty": 100
+        },
+        {
+          "displayQty": "splash",
+          "ingredientId": "milk",
+          "qty": 30
+        },
+        {
+          "displayQty": "1.5 tbsp",
+          "ingredientId": "oil",
+          "qty": 21
+        }
+      ],
+      "name": "Vegetable & Egg Frittata",
+      "note": "On the lighter side — good with a slice of bread or a simple tomato salad alongside. Keeps 3 days, good cold too.",
+      "steps": [
+        "Parboil the diced potato in salted water about 8 min until just tender but not falling apart, then drain well.",
+        "Preheat oven to 190°C. Sauté onion in an oven-safe pan, 5 min, then layer in the parboiled potato and spinach.",
+        "Whisk eggs with milk, salt and pepper, pour over the vegetables, scatter cheese on top.",
+        "Cook on the stovetop 3–4 min until the edges set, then finish in the oven 15–18 min until just firm in the middle."
+      ],
+      "tags": ["italian"],
+      "timeMinutes": 40
+    },
+    "vegetable_spring_rolls": {
+      "basePortions": 6,
+      "costTier": "low-med",
+      "id": "vegetable_spring_rolls",
+      "ingredients": [
+        {
+          "ingredientId": "rice_paper_wrapper",
+          "qty": 20
+        },
+        {
+          "ingredientId": "cabbage",
+          "prep": "shredded, with carrot & cucumber",
+          "qty": 200
+        },
+        {
+          "ingredientId": "carrot",
+          "qty": 100
+        },
+        {
+          "ingredientId": "cucumber",
+          "qty": 0.5
+        },
+        {
+          "displayQty": "optional",
+          "ingredientId": "rice_vermicelli",
+          "qty": 100
+        },
+        {
+          "ingredientId": "soy_sauce",
+          "prep": "+ rice vinegar, for dipping",
+          "qty": 30
+        }
+      ],
+      "name": "Vegetable Spring Rolls",
+      "note": "Your own dish — this is the fresh, no-cook version. Light on its own, so good paired with the fried rice or a bowl of miso soup for a fuller meal. Best eaten same-day.",
+      "steps": [
+        "Soak the rice vermicelli in just-boiled water 5–8 min until soft, then drain and rinse in cold water so it doesn't clump.",
+        "Dip a rice paper sheet in warm water a few seconds until pliable.",
+        "Lay flat, fill with shredded veg and the drained noodles, fold in the sides and roll tightly.",
+        "Serve with a soy-vinegar dipping sauce. No frying needed for this version."
+      ],
+      "tags": ["chinese", "no-cook"],
+      "timeMinutes": 30
+    },
+    "vegetable_sushi_rolls": {
+      "basePortions": 6,
+      "costTier": "low-med",
+      "ingredients": [
+        {
+          "ingredientId": "rice_white",
+          "prep": "sushi rice",
+          "qty": 350
+        },
+        {
+          "displayQty": "3 tbsp rice vinegar",
+          "ingredientId": "vinegar",
+          "qty": 42
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "sugar",
+          "qty": 12
+        },
+        {
+          "displayQty": "1/2 tsp",
+          "ingredientId": "salt",
+          "qty": 2
+        },
+        {
+          "displayQty": "buffer for tears/doubling up",
+          "ingredientId": "nori_sheet",
+          "qty": 7
+        },
+        {
+          "ingredientId": "cucumber",
+          "qty": 1
+        },
+        {
+          "ingredientId": "avocado",
+          "prep": "if affordable",
+          "qty": 0.5
+        },
+        {
+          "ingredientId": "bell_pepper",
+          "qty": 1
+        }
+      ],
+      "name": "Vegetable Sushi Rolls",
+      "note": "Your own dish — takes a couple of tries to roll neatly, but tastes fine even when it looks rough. Light on its own; pair with miso soup or the teriyaki tofu bowl for a fuller meal. Don't overfill: a thin rice layer and thin veg strips roll and seal much more easily than a thick one, and a torn sheet is easy to patch with a second sheet — that's what the extra 2 sheets are for.",
+      "steps": [
+        "Cook rice, then stir through the vinegar-sugar-salt mix while still warm. Let cool to room temperature.",
+        "Lay nori on a clean towel or mat, spread a thin, even layer of rice, leaving a gap at the top edge.",
+        "Lay a modest amount of vegetable strips near the bottom edge — overfilling is the #1 cause of tearing — then roll tightly using the towel or mat to guide it, wetting the top edge to seal.",
+        "Slice with a wet, sharp knife into pieces."
+      ],
+      "tags": ["japanese", "no-cook"],
+      "timeMinutes": 40
+    },
+    "vegetarian_tortilla_soup": {
+      "basePortions": 6,
+      "costTier": "low",
+      "id": "vegetarian_tortilla_soup",
+      "ingredients": [
+        {
+          "displayQty": "1.5 cans",
+          "ingredientId": "tomatoes_canned",
+          "qty": 550
+        },
+        {
+          "displayQty": "1L stock",
+          "ingredientId": "stock_cube",
+          "qty": 1
+        },
+        {
+          "displayQty": "1.5 cans",
+          "ingredientId": "beans_black_canned",
+          "qty": 550
+        },
+        {
+          "displayQty": "1 can, drained",
+          "ingredientId": "corn_canned",
+          "qty": 300
+        },
+        {
+          "displayQty": "1 onion",
+          "ingredientId": "onion",
+          "qty": 150
+        },
+        {
+          "ingredientId": "garlic",
+          "qty": 2
+        },
+        {
+          "displayQty": "1 tsp",
+          "ingredientId": "cumin",
+          "qty": 5
+        },
+        {
+          "displayQty": "juice of 1",
+          "ingredientId": "lime",
+          "qty": 1
+        },
+        {
+          "ingredientId": "tortilla",
+          "prep": "cut into strips, toasted, to top",
+          "qty": 2
+        }
+      ],
+      "name": "Vegetarian Tortilla Soup",
+      "note": "A light one — good on its own for lunch, or pair with a quesadilla wedge if you want a bigger dinner.",
+      "steps": [
+        "Sauté onion and garlic, add spices, then tomatoes, stock, beans and corn.",
+        "Simmer 20 min. Season with lime juice.",
+        "Top with toasted tortilla strips just before serving."
+      ],
+      "tags": ["mexican"],
+      "timeMinutes": 35
+    },
+    "yogurt_granola_parfait": {
+      "basePortions": 2,
+      "costTier": "low",
+      "id": "yogurt_granola_parfait",
+      "ingredients": [
+        {
+          "ingredientId": "yogurt_plain",
+          "qty": 400
+        },
+        {
+          "ingredientId": "granola",
+          "qty": 80
+        },
+        {
+          "ingredientId": "banana",
+          "prep": "or a handful of berries",
+          "qty": 1
+        },
+        {
+          "displayQty": "1 tbsp",
+          "ingredientId": "honey",
+          "qty": 21
+        }
+      ],
+      "name": "Yogurt & Granola Parfait",
+      "note": "Genuinely just assembly. Use plain yogurt over flavored to keep the sugar down — the honey adds enough sweetness on its own.",
+      "steps": ["Layer yogurt, granola and fruit in glasses or bowls.", "Drizzle with honey."],
+      "tags": ["breakfast", "no-cook", "quick"],
+      "timeMinutes": 5
+    }
+  }
+}
